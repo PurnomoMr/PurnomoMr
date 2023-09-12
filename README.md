@@ -15,8 +15,6 @@ Here on GitHub, you'll find a collection of my projects and contributions. I enj
 - 📝 Read my articles on [Medium](https://medium.com/@mr.purnomo91)
 - 🌐 Visit my personal website: [kencana-id.com](https://www.kencana-id.com)
 
-<div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=PurnomoMr&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="PurnomoMr" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurnomoMr&layout=donut&theme=radical&hide_border=true" alt="PurnomoMr" />
-</div>
 
